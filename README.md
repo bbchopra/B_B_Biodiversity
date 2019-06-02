@@ -1,6 +1,6 @@
 # Belly Button Biodiversity
 
-Build an interactive dashboard to explore the ## Belly Button Biodiversity DataSet.
+Build an interactive dashboard to explore the Belly Button Biodiversity DataSet.
 
 Check out the application: 
 
