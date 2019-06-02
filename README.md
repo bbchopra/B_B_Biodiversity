@@ -7,11 +7,11 @@ Check out the application <Link>
 
 Use Plotly.js to build interactive charts for your dashboard.
 
-Create a PIE chart that uses data from your samples route (/samples/<sample>) to display the top 10 samples.
-Create a Bubble Chart that uses data from your samples route (/samples/<sample>) to display each sample.
-Adapt the Gauge Chart from https://plot.ly/javascript/gauge-charts/ to plot the Weekly Washing Frequency obtained from the route /wfreq/<sample>
-Display the sample metadata from the route /metadata/<sample>
-Update all of the plots any time that a new sample is selected.
+- Create a PIE chart that uses data from your samples route (/samples/<sample>) to display the top 10 samples.
+- Create a Bubble Chart that uses data from your samples route (/samples/<sample>) to display each sample.
+- Adapt the Gauge Chart from https://plot.ly/javascript/gauge-charts/ to plot the Weekly Washing Frequency obtained from the route /wfreq/<sample>
+- Display the sample metadata from the route /metadata/<sample>
+- Update all of the plots any time that a new sample is selected.
  
 ## Step 2 - Heroku
 
